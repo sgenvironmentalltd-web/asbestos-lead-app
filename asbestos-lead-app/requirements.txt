@@ -1,0 +1,6 @@
+Plaintext
+
+fastapi
+uvicorn
+requests
+twilio
